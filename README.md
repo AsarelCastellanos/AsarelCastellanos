@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Asarel Castellanos.</h1>
 <h3 align="center">A frontend developer.</h3>
 
-- All of my projects are available at [asarelcastellanos.com](asarelcastellanos.com)
+<p align="center">All of my projects are available at <a href="asarelcastellanos.com">[asarelcastellanos.com]</a>.</p>
 
-- I build products on [room201.studio](room201.studio)
+<p align="center">I build products on <a href="room201.studio">[room201.studio]</a>.</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asarelcastellanos&show_icons=true&locale=en" alt="asarelcastellanos" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asarelcastellanos&show_icons=true&locale=en" alt="asarelcastellanos" /></p>
