@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asarel Castellanos.</h1>
 <h3 align="center">A frontend developer.</h3>
 
-<p align="center">All of my projects are available at <a href="https://www.asarelcastellanos.com" target="_blank">[asarelcastellanos.com]</a>.</p>
+<p align="center">All of my projects are available at <a href="https://asarelcastellanos.com" target="_blank">[asarelcastellanos.com]</a>.</p>
 
 <p align="center">I build products on <a href="https://www.room201.studio" target="_blank">[room201.studio]</a>.</p>
 
