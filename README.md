@@ -1,6 +1,6 @@
 # Hi 👋 My name is Asarel Castellanos
 
-## Front End Developer
+## Angular / React Developer
 
 Motivated software developer eager to apply classroom learning with knowledge gained in a technical environment. An active and passionate volunteer with a focus on building socially conscious technologies.
 
