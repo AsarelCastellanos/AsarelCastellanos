@@ -1,14 +1,14 @@
 # Hi 👋 My name is Asarel Castellanos
 
-## Angular / React Developer
+## React / React Native Developer
 
 Motivated software developer eager to apply classroom learning with knowledge gained in a technical environment. An active and passionate volunteer with a focus on building socially conscious technologies.
 
 - 🌍 I'm based in Los Angeles
 - 🖥️ See my portfolio at [asarelcastellanos.com](http://asarelcastellanos.com)
 - ✉️ You can contact me at [asarelc@gmail.com](mailto:asarelc@gmail.com)
-- 🚀 I'm currently working on [Vicious Streak Salon](http://viciousstreaksalon.vercel.app)
-- 🧠 I'm learning Next.js
+- 🚀 I'm currently working on [BLOCKTALK](http://github.com/asarelcastellanos/BLOCKTALK)
+- 🧠 I'm learning React Native & Expo
 
 <a href="https://www.twitter.com/asarelathome" target="_blank" rel="noreferrer"><img
                     src="https://img.shields.io/twitter/follow/asarelathome?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
