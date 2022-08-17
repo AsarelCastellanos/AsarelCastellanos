@@ -1,4 +1,4 @@
-# Hi 👋 My name is Asarel Castellanos
+# Hi! My name is Asarel Castellanos
 
 ## React / React Native Developer
 
