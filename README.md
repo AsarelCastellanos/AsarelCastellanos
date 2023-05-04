@@ -1,4 +1,10 @@
 # Hi, I'm Asarel 
+
+
+<p>Head over to <a target="_blank" href="https://smcgrades.com">smcgrades.com</a> to see grade distributions for each class and learn which professors / sections are most optimal to take. Avoid difficult courses!</p>
+
+
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/asarelcastellanos/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
